@@ -1,0 +1,104 @@
+/* ##### GRID ITEMS ##### */
+
+header,
+section,
+main,
+footer {
+    margin: 0 40px;
+}
+
+/* ##### GRID ITEMS ##### */
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    grid-area: hero;
+    padding: 80px 0;
+}
+
+.right-side #image1 {
+    display: none;
+}
+
+.right-side #image2 {
+    display: block;
+}
+
+/* *** HERO SECTION *** */
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 90px 0 72px 0;
+}
+section h1 {
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+section p {
+    font-size: 20px;
+    text-align: center;
+}
+
+section .right-side {
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.right-side #image1 {
+    display: none;
+}
+
+.right-side #image2 {
+    display: block;
+    max-width: 100%;
+}
+
+/* *** MAIN *** */
+
+main {
+    grid-template-columns: repeat(2, minmax(auto, 400px));
+    grid-template-rows: none;
+    grid-auto-rows: minmax(auto, 1fr);
+    gap: 64px 24px;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.card h2 {
+    font-family: 'Roboto Serif';
+    font-size: 32px;
+    line-height: 37px;
+    margin: 32px 32px 128px 32px;
+}
+
+.card h3 {
+    bottom: 20px;
+    font-size: 20px;
+    line-height: 23px;
+    margin-left: 32px;
+}
+
+.card p {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0 32px 30px 32px;
+}
+
+.card button {
+    font-size: 16px;
+    padding: 6px 24px 6px 24px;
+    margin: 0 0 32px 32px;
+}
+
+/* *** FOOTER *** */
+
+footer {
+    margin: 0;
+}
