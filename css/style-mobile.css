@@ -9,22 +9,6 @@ footer {
 
 /* ##### GRID ITEMS ##### */
 
-section {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    grid-area: hero;
-    padding: 80px 0;
-}
-
-.right-side #image1 {
-    display: none;
-}
-
-.right-side #image2 {
-    display: block;
-}
-
 /* *** HEADER *** */
 
 header {
@@ -75,8 +59,7 @@ section .left-side {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    max-width: 500px;
-    
+    max-width: 500px;    
 }
 
 section h1 {
