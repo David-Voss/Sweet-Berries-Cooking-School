@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* Nice work on using the correct font for the correct element! */
 body{
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -45,7 +45,7 @@ footer {
 }
 
 /* *** HEADER *** */
-
+/* Beautiful work on using CSS Grid and flex box together! */
 header {
     display: flex;
     justify-content: space-between;
@@ -151,6 +151,9 @@ main {
     box-shadow:0 2px 24px rgba(0, 0, 0, 0.05);
 }
 
+/* Even-though it looks like you achieved placing the logo above the card, it is not the proper way.
+You should give the icon a position of absolute, this will bring the icon out of the document flow.
+Then you need to give the card a position of relative in order for the icon to be placed in relative to the card. */
 .card img {
     align-self: flex-end;
     position: relative;

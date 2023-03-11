@@ -1,3 +1,9 @@
+/* I see you have your media-queries in different css files and it's working
+but you have a lot of duplicated code.
+This is a problem because if you want to change something in your CSS,
+you will have to do it in 3 different places.
+But if you have media queries, you only write the code that you want to change on tablet and mobile decides. */
+
 /* ##### GRID ITEMS ##### */
 
 header,

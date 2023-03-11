@@ -28,6 +28,7 @@ header #logo {
     display: none;
 }
 
+/* Great work on showing the hamburger menu on mobile devices, however it is not a functional hamburger menu. */
 header #mobile-logo {
     display: block;
     width: 100%;
