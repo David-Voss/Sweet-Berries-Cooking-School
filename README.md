@@ -19,13 +19,16 @@
 ## Preview of the Project
 
 **_Desktop view:_**
-<br>![screenshot_SweetBerriesCookingSchool_desktop](screenshots\screenshot_SweetBerriesCookingSchool_desktop.png)
+<br>
+![screenshot_SweetBerriesCookingSchool_desktop.png](screenshots\screenshot_SweetBerriesCookingSchool_desktop.png)
 
 <br>**Tablet view:_**
-<br>![screenshot_SweetBerriesCookingSchool_tablet](screenshots\screenshot_SweetBerriesCookingSchool_tablet.png)
+<br>
+![screenshot_SweetBerriesCookingSchool_tablet.png](screenshots\screenshot_SweetBerriesCookingSchool_tablet.png)
 
 <br>**Mobile view:_**
-<br>![screenshot_SweetBerriesCookingSchool_mobile](screenshots\screenshot_SweetBerriesCookingSchool_mobile.png)
+<br>
+![screenshot_SweetBerriesCookingSchool_mobile.png](screenshots\screenshot_SweetBerriesCookingSchool_mobile.png)
 
 <br><br>
 
