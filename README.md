@@ -21,10 +21,10 @@
 **_Desktop view:_**
 <br>![screenshot_SweetBerriesCookingSchool_desktop.png](screenshots/screenshot_SweetBerriesCookingSchool_desktop.png)
 
-<br>**Tablet view:_**
+<br>**_Tablet view:_**
 <br>![screenshot_SweetBerriesCookingSchool_tablet.png](screenshots/screenshot_SweetBerriesCookingSchool_tablet.png)
 
-<br>**Mobile view:_**
+<br>**_Mobile view:_**
 <br>![screenshot_SweetBerriesCookingSchool_mobile.png](screenshots/screenshot_SweetBerriesCookingSchool_mobile.png)
 
 <br><br>
