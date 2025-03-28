@@ -1,5 +1,12 @@
 # Sweet Berries Cooking School
 
+![HTML5](https://img.shields.io/badge/HTML5-%3C%2F%3E-orange)
+![CSS3](https://img.shields.io/badge/CSS3-%23-blue)
+![Responsive](https://img.shields.io/badge/design-responsive-green)
+![Google Fonts](https://img.shields.io/badge/fonts-Google%20Fonts-red)
+![Layout](https://img.shields.io/badge/layout-CSS%20Grid%20%26%20Flexbox-purple)
+![Language: English](https://img.shields.io/badge/language-English-blue)
+
 >A stylish and responsive web design for a fictional online cooking school. The website offers a modern structure with a clear focus on user experience, responsive design and mobile optimisation.
 
 <br>
