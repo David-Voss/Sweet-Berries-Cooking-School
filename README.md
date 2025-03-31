@@ -9,6 +9,8 @@
 
 >A stylish and responsive web design for a fictional online cooking school. The website offers a modern structure with a clear focus on user experience, responsive design and mobile optimisation.
 
+><b>Live Demo on GitHub Pages: </b><a href="https://david-voss.github.io/Sweet-Berries-Cooking-School/" target="_blank" rel="noopener noreferrer" title="david-voss.github.io/Sweet-Berries-Cooking-School/">Sweet Berries Cooking School</a>
+
 <br>
 
 ## Brief Description
